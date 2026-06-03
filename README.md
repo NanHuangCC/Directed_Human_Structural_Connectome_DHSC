@@ -1,6 +1,6 @@
 # Directional Human Connectome Inferred From Macaque Tracer Connectivity
 
-This repository contains data and analysis code accompanying **[MANUSCRIPT TITLE TO BE ADDED]**. The project estimates a directional human brain connectome by combining macaque tracer-derived connectivity with cross-species connectivity-blueprint mapping and human diffusion MRI tractography.
+This repository contains data and analysis code accompanying **Directed Human Structural Connectome Reveals Hierarchical Organization and Shapes Large-Scale Brain Dynamics**. The project estimates a directional human brain connectome by combining macaque tracer-derived connectivity with cross-species connectivity-blueprint mapping and human diffusion MRI tractography.
 
 The released material is intended to support manuscript-level reproducibility and secondary reuse of the inferred connectome. The main data products are 426-node human structural connectivity matrices based on the HCP MMP 1.0 cortical atlas plus HCPex subcortical regions.
 
@@ -211,7 +211,7 @@ Exact software versions should be added if required by the manuscript or journal
 - The primary reusable connectome is stored in `Data/connections/DirectionalConnectome_D99_HCPex_LR_Log10weighted.csv`.
 - The corresponding tract-length matrix is stored in `Data/connections/DirectionalConnectome_D99_HCPex_LR_length.csv`.
 - Some scripts include hard-coded paths from the original analysis environment. Replace these paths with local paths before running.
-- Figure 5 and Figure 6 simulation scripts include precomputed data files in their respective directories, but full reruns may require external subject-level diffusion or fMRI data that are not included here.
+- Figure 5 and Figure 6 simulation scripts include precomputed data files in their respective directories, but full reruns may require external subject-level diffusion or fMRI data that are not included here. All neuroimaging data used in this paper can be obtained at the following address: Huamn: https://www.humanconnectome.org/ ; Macaque: https://doi.org/10.57760/sciencedb.15197.
 - The original HCP MMP 1.0 cortical labels were adjusted to match the left/right orientation used for the subcortical HCPex labels. See the manuscript for the exact atlas-handling procedure.
 
 ## Known Limitations
@@ -236,15 +236,12 @@ Key methodological references include:
 - Mars, R. B. et al. Whole brain comparative anatomy using connectivity blueprints. *eLife* 7, e35237 (2018).
 - Modha, D. S. & Singh, R. Network architecture of the long-distance pathways in the macaque brain. *Proceedings of the National Academy of Sciences* 107, 13485-13490 (2010).
 - Warrington, S. et al. XTRACT - standardised protocols for automated tractography in the human and macaque brain. *NeuroImage* 217, 116923 (2020).
+- Lu, Y. et al. Macaque Brainnetome Atlas: A multifaceted brain map with parcellation, connection, and histology. *Science Bulletin* 69, 2241-2259 (2024).
+
 
 ## License
-
-**[LICENSE TO BE ADDED]**
-
-Please add the license terms before public release.
+Code is MIT licensed; data are released under CC BY 4.0
 
 ## Contact
-
 For questions about the data or analysis workflow, please contact:
-
-**[CONTACT NAME, INSTITUTION, AND EMAIL TO BE ADDED]**
+- Nan Huang: nan.HUANG@univ-amu.fr / nanhuang01@gmail.com
