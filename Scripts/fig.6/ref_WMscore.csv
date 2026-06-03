@@ -1,0 +1,26 @@
+"","Macroanatomical_location","Cytoarchitectonic_location","x","y","z","z_score"
+"1","Left anterior insula",NA,-32,22,-2,8.3
+"2","Left inferior frontal gyrus pars opercularis","Area 44/45",-48,10,26,8.25
+"3","Left caudal lateral prefrontal cortex",NA,-46,26,24,8.23
+"4","Left rostral lateral prefrontal cortex",NA,-38,50,10,6.33
+"5","Right anterior insula",NA,36,22,-6,8.26
+"6","Right inferior frontal gyrus pars triangularis","Area 44/45",50,14,24,8.22
+"7","Right caudal lateral prefrontal cortex",NA,44,34,32,7.8
+"8","Right rostral lateral prefrontal cortex",NA,38,54,6,4.28
+"9","Posterior medial frontal cortex",NA,2,18,48,8.29
+"10","Left posterior superior frontal gyrus",NA,-28,0,56,7.6
+"11","Right posterior superior frontal gyrus",NA,30,2,56,7.06
+"12","Left intraparietal sulcus","hIP3, hIP2, hIP1",-42,-42,46,8.25
+"13","Left superior parietal lobule/intraparietal sulcus","7PC, 7A, hIP3",-34,-52,48,8.25
+"14","Left posterior superior parietal lobule","7A",-24,-66,54,6.64
+"15","Right intraparietal sulcus","hIP2/hIP3/hIP1",42,-44,44,8.22
+"16","Right intraparietal sulcus","hIP3/hIP1",32,-58,48,8.22
+"17","Right posterior superior parietal lobule","7P/7A",16,-66,56,5.17
+"18","Left thalamus (prefrontal/temporal)",NA,-12,-12,12,5.47
+"19","Left basal ganglia (caudate)",NA,-16,2,14,5.3
+"20","Left basal ganglia (putamen)",NA,-18,4,6,6.33
+"21","Left basal ganglia (pallidum)",NA,-16,0,2,5.4
+"22","Right thalamus (prefrontal/temporal)",NA,12,-10,10,4.08
+"23","Right thalamus (prefrontal)",NA,8,-18,4,3.64
+"24","Left cerebellum / left fusiform gyrus","Lobules VI / VIIa Crus I",-34,-66,-20,4.94
+"25","Right cerebellum / right fusiform gyrus","Lobule VI / VIIa Crus I",32,-64,-18,5.44
