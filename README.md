@@ -227,7 +227,8 @@ This connectome is an inferred directional structural connectome rather than a d
 
 Please cite the associated manuscript when using this repository:
 
-> **[AUTHOR LIST TO BE ADDED]**. **[MANUSCRIPT TITLE TO BE ADDED]**. **[JOURNAL / PREPRINT SERVER TO BE ADDED]**, **[YEAR TO BE ADDED]**. **[DOI OR URL TO BE ADDED]**.
+> 1. Huang, N. et al. Directed human structural connectome reveals hierarchical organization and shapes large-scale brain dynamics. bioRxiv https://doi.org/10.64898/2026.06.16.732559 (2026) doi:10.64898/2026.06.16.732559.
+
 
 Key methodological references include:
 
